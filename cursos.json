@@ -1,0 +1,22 @@
+[
+    {
+        "codigo": 51212,
+        "personasInscriptas": [{
+            "sexo": true,
+            "nombre": "evaristo",
+            "edad": 19,
+            "dni": 19231
+        }],
+        "nombreCurso": "AWS S3 for developers"
+    },
+    {
+        "codigo": 23123,
+        "personasInscriptas": [{
+            "sexo": false,
+            "nombre": "juan",
+            "edad": 31,
+            "dni": 323132
+        }],
+        "nombreCurso": "Python 0 to god"
+    }
+]
